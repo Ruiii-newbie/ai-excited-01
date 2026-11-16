@@ -4,7 +4,14 @@
 [![rank](https://make.fun/badge/ai-excited-01/Ruiii-newbie/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Ruiii-newbie/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A colossal glowing koi the size of a whale swims through a neon city street at dusk, a tiny lantern-lit boat riding on its back. The entry program copies the image to `/output/entry.png`.
+**The Octopus Ate the Wedding** — a colossal octopus in a tiny chef's hat bursts
+through the ceiling of a fancy restaurant kitchen, tentacles snatching plates
+out of the air while the chef screams and throws a pan and a waiter slips on
+spilled soup, sauce flying everywhere in warm dramatic light. One giant
+octopus, one frozen moment of chaos.
+
+The entry program validates the image (PNG/JPEG magic bytes, at most 1 MiB,
+at most 1024×1024 px) and copies it to `/output/entry.png`.
 
 ## Run it
 
